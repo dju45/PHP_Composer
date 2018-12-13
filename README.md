@@ -1,2 +1,2 @@
-# quete_composer
-utilisation de composer  et de son autoload 
+# WCS_quete_composer
+
